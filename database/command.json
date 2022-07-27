@@ -1,0 +1,46 @@
+[
+  {
+    "nama": "#menu",
+    "count": 7
+  },
+  {
+    "nama": "#owner",
+    "count": 2
+  },
+  {
+    "nama": "#donate",
+    "count": 1
+  },
+  {
+    "nama": "#public",
+    "count": 5
+  },
+  {
+    "nama": "#setleft",
+    "count": 2
+  },
+  {
+    "nama": "#leave",
+    "count": 1
+  },
+  {
+    "nama": "#join",
+    "count": 1
+  },
+  {
+    "nama": "#hidetag",
+    "count": 2
+  },
+  {
+    "nama": "#self",
+    "count": 2
+  },
+  {
+    "nama": "#toimg",
+    "count": 2
+  },
+  {
+    "nama": "#sticker",
+    "count": 3
+  }
+]
